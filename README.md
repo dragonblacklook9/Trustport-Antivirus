@@ -213,4 +213,4 @@ TrustPort Antivirus is offered as a **full free version** with all features and 
 Experience the ultimate protection for your PC with TrustPort Antivirus. **Download now and secure your digital world!**
 
 ---
-**Last updated:** 2026-11-07 14:25:27 UTC
+**Last updated:** 2026-11-07 19:05:44 UTC
